@@ -1,0 +1,4 @@
+com/example/liquibase/PersonRepository.class
+com/example/liquibase/LiquibaseApplication.class
+com/example/liquibase/controller.class
+com/example/liquibase/Person.class
